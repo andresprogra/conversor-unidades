@@ -1,0 +1,16 @@
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\bin\Debug\practica4-conversoruni.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\bin\Debug\practica4-conversoruni.exe
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\bin\Debug\practica4-conversoruni.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\bin\Debug\practica4-conversoruni.xml
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.longitud.resources
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4-conversoruni.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4-conversoruni.exe
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4-conversoruni.xml
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4-conversoruni.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.inicio.resources
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.Peso.resources
+c:\users\usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.Temperatura.resources
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.Datos.resources
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4_conversoruni.Tiempo.resources
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica4-conversoruni\practica4-conversoruni\obj\Debug\practica4-conversoruni.vbprojResolveAssemblyReference.cache
